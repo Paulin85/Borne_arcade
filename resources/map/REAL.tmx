@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="43" height="24" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="spaceee.tsx"/>
+ <tileset firstgid="17" source="rock.tsx"/>
+ <tileset firstgid="19" source="Collision.tsx"/>
+ <layer id="1" name="Calque 1" width="43" height="24">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECsWSy2oDQQwE95qADfn/n40FLmia1ozWXicHo9GrVdL6fhzH/aLf7anz87D1u0o36XxfpK+sr2hqD/sn3kns67GT6nmPsnrurF+zJj2+k/bpu7Rgr/iKlbrJ/L+ogdV39dm7vNerP9l5UgOrap996x7dNyxN6hKX5/CVBdbUr3VXvX2Xna5ywbrr8bxqeO4Tfs1LrHBgz96iY0Wv8vqmvmJ8+zQzsdI7sWmm9u3yWrt61w6wTjTZeaVZOukm1UMcu9Ihp7WwkvsPO7lTcSlr6kkx3Sfl0/1TrHRSv8fwlRUGcvhud3mvx+/6uj08nljRfsf6nJWW/ie7vqrpWOnB1qzuLiuOXW6lyQ7YjpUZE63dHrovuilGrrPOumLrNDyuGtzEa9x3dtUgB6vmXGcyb1Ljumd9WNOsFDur/069z4d1p+l3d3/Xr3m+acU6Hees2o51qpHqUkxZu3fqU+aOtdNbxVXX65RD7+p1K3/FWvqv6v4CzD7VoCAQAAA=
+  </data>
+ </layer>
+ <layer id="2" name="Collision" width="43" height="24" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECu3XsQkAIAwEwOyS/XdUC3GBPFicIHZP+FxjV1W7kQ52raPn7mkyNJF55kvkJjLNmtmVXvXKAAMMMMAAAwwwwMAzcP8yv78LxP0pKyAQAAA=
+  </data>
+ </layer>
+</map>
